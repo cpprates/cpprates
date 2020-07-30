@@ -1,14 +1,12 @@
-# Daniel Obara
-[![Linkedin Badge](https://img.shields.io/badge/-danielobara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielobara/)](https://www.linkedin.com/in/danielobara/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/10564639/daniel-obara)](https://stackoverflow.com/users/10564639/daniel-obara)
-[![Gmail Badge](https://img.shields.io/badge/-danieltsutomu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieltsutomu@gmail.com)](mailto:danieltsutomu@gmail.com)
-[![Codewars Badge](https://www.codewars.com/users/TsutomuObara/badges/micro)](https://www.codewars.com/users/TsutomuObara/badges/micro)
-## Hi 👋, 
-I'm Daniel Obara, I'm a Full Stack developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
+# Carolina Prates
+[![Linkedin Badge](https://img.shields.io/badge/-carolinapprates-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinapprates/)](https://www.linkedin.com/in/carolinapprates/)
+[![Gmail Badge](https://img.shields.io/badge/-cpprates18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cpprates18@gmail.com)](mailto:cpprates18@gmail.com)
+## Hey there 👋, 
+I'm Carolina Prates, I'm a Computer Science Student 👩‍🎓💻 who is passionate about back-end development in Java and JavaScript technologies and its entire ecosystem. 
 
-- 🔭 I’m currently working on JavaScript and Ruby apps/systems
-- 🌱 I’m currently learning IA,DevOps and of course JS improvments
-- 💬 Ask me about: tech, karate, anime and a little bit about investments.
--  ⚡ Technologies: React, Node, Adonis, React-Native
+- 👩‍💻 I’m currently working on personal projects here on Github.
+- 📖 I’m currently learning Java, JavaScript, Node.JS.
+- 💬 Ask me about: Women in Tech communities, English, cats, and dance.
+- ⚡ Technologies: Java, Node.js, React.
 
-"Do not expect from others what you expect of yourself." 
+"Be the change you want to see in the world."
