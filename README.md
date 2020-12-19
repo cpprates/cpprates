@@ -1,6 +1,6 @@
 # Carolina Prates
 
-<img src="https://github.com/cpprates/cpprates/blob/master/assets/githubpic.png" width="25%" alt="Carolina Prates" align="right"/>
+<img src="https://github.com/cpprates/cpprates/blob/master/assets/githubpic.png" width="35%" alt="Carolina Prates" align="right"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-carolinapprates-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinapprates/)](https://www.linkedin.com/in/carolinapprates/)
 [![Gmail Badge](https://img.shields.io/badge/-cpprates18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cpprates18@gmail.com)](mailto:cpprates18@gmail.com)
