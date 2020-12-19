@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQHlUUsaMHfRRQ/profile-displayphoto-shrink_400_400/0?e=1601510400&v=beta&t=Y9Na7FoCfrWOqyTbUlTsGb7he-v8-4eXuez1MCouC8o" width="25%" alt="Carolina Prates" align="right"/>
+<img src="./assets/carolinalinkedin.png" width="25%" alt="Carolina Prates" align="right"/>
 
 # Carolina Prates
 [![Linkedin Badge](https://img.shields.io/badge/-carolinapprates-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinapprates/)](https://www.linkedin.com/in/carolinapprates/)
@@ -6,9 +6,9 @@
 ## Hey there 👋, 
 I'm Carolina Prates, I'm a Computer Science Student 👩‍🎓💻 who is passionate about Java and JavaScript technologies and its entire ecosystem. 
 
-- 👩‍💻 I’m currently working on personal projects here on Github.
+- 👩‍💻 I’m currently working on some projects here on Github.
 - 📖 I’m currently learning Java, JavaScript, Node.JS.
-- 💬 Ask me about: Women in Tech communities, English, cats, and dance.
-- ⚡ Technologies: Java, JavaScript, Node.JS, React.
+- 💬 Ask me about: women in tech, English, cats, and dance.
+- ⚡ Technologies: Java, Spring, JavaScript, Node.JS.
 
 "Be the change you want to see in the world."
