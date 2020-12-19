@@ -1,3 +1,5 @@
+<img src="https://github.com/cpprates/cpprates/blob/master/assets/carolinalinkedin.png" width="25%" align="right" alt="Carolina Prates">
+
 # Carolina Prates
 [![Linkedin Badge](https://img.shields.io/badge/-carolinapprates-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinapprates/)](https://www.linkedin.com/in/carolinapprates/)
 [![Gmail Badge](https://img.shields.io/badge/-cpprates18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cpprates18@gmail.com)](mailto:cpprates18@gmail.com)
