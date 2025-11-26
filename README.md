@@ -9,7 +9,7 @@
 I'm Carolina Prates, I'm a Computer Science Student 👩‍🎓💻 who is passionate about Java and JavaScript technologies and its entire ecosystem.
 
 - 👩‍💻 I’m currently working with Java, Spring boot, MongoDB technologies.
-- 👩‍💻 I worked with Node.JS, Express, Axios, MongoDB technologies.
+- 🖥️ I worked with Node.JS, Express, Axios, MongoDB technologies.
 - 📖 I’m currently learning Java, JavaScript, Node.JS.
 - 💬 Ask me about: women in tech, English/German languages, cats, and dance.
 - ⚡ Technologies: Java, Spring, Node.JS, JavaScript.
